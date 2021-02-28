@@ -7,7 +7,7 @@
 
 
 
-![CarbonDiversity](Images/p5.js example.gif)
+![CarbonDiversity](Images/carbondiversity.gif)
 
 ## Table of Contents
 * [Description](#Description)
@@ -25,7 +25,7 @@
 
 
 ## Deployed Site
-[AxelTheBird](https://rksouth.github.io/CarbonDiversity/)
+[Carbon+Diversity](https://rksouth.github.io/CarbonDiversity/)
 
 ## Features 
 
@@ -52,9 +52,9 @@ Rachael Kelm-Southworth
 
 * [github] (https://github.com/RKSouth/)
 
- <!-- ## Credits
+ ## Credits
 
-I would like to thank Kerwin, Manuel, Roger, Jerome and all my classmates for helping me understand this subject matter and anyone that contributed to make the base code. -->
+ I would specifically like to thank bitcraftlab for creating the gui and the easy to follow instructions on how to use it, with that them this project would not be nearly as cool.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
