@@ -5,9 +5,9 @@
 
 ### This project, built in p5.js is meant to be approximate demonstration on how diversity within a forested ecosystem can effect carbon.  Please note: this project may not work in internet explorer. 
 
-<!-- 
 
-![Axel](Images/AxelTheBird.png) -->
+
+![CarbonDiversity](Images/p5.js example.gif)
 
 ## Table of Contents
 * [Description](#Description)
