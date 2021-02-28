@@ -1,12 +1,3 @@
-/*
- Assignment:Carbon +Diversity: Final Project
- Student: Rachael Kelm-Southworth
- Pasadena City College, Spring 2020
- Prof. Masood Kamandy
- Project Description: Carbon +Diversity: Final Project
- Last Modified:June 7th, 2020
- */
-
 
 function preload() {
 
@@ -136,8 +127,8 @@ if (carbonRichness()) {
 } //end of draw
 //function for determining when carbon appears
 function carbonRichness() {
-//using percentages of tree stand to determine overstory richness
-//I used the total ammount of trees as the variable to calculate because it stands to reason more trees=more carbon
+//using percentages of tree stand to determine over story richness
+//I used the total amount of trees as the variable to calculate because it stands to reason more trees=more carbon
    totalSpeciesCount = params.BigLeafMaple + params.DouglasFir + params.RedAlder + params.WesternHemlock + params.WesternRedCedar;
    perDougFir = params.DouglasFire / totalSpeciesCount;
    perRedAl = params.RedAlder / totalSpeciesCount;
